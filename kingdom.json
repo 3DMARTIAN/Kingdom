@@ -1,0 +1,9 @@
+{
+  "kingdom_roles": [
+    "King",
+    "Queen",
+    "Knight",
+    "Peasant",
+    "Merchant"
+  ]
+}
