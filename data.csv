@@ -1,0 +1,6 @@
+Role,Count,Importance
+King,1,High
+Queen,1,High
+Knight,100,Medium
+Peasant,8000,Low
+Merchant,200,Medium
